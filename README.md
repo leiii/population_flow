@@ -1,7 +1,7 @@
 # Population flow - Wuhan City
 
 <div align="center">
-  <img src="https://github.com/quanturban/population_flow/blob/master/population_flow_wuhan.png" width = "1000"><br><br>
+  <img src="https://github.com/leiii/population_flow/blob/master/population_flow_wuhan.png" width = "1000"><br><br>
 </div>
 
 利用 2015-16 年人口迁徙数据（基于手机位置）绘制的武汉市与其它城市的联系图。
