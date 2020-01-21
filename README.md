@@ -31,7 +31,7 @@
  
 ## 数据
 
-[数据下载](https://github.com/quanturban/population_flow/blob/master/wuhan_flow.csv)
+[数据下载](https://github.com/leiii/population_flow/blob/master/wuhan_flow.csv)
 
 数据来源：《基于手机位置数据的城市人口时空分布特征研究》，董磊，清华大学博士论文，2017年
  
